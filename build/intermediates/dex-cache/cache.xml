@@ -2,25 +2,25 @@
 <items version="2" >
 
     <item
-        jar="/Users/jonathanlin/Google_Drive/Development/EatingClub_jan29/ParseStarterProject/libs/ParseCrashReporting-1.8.2.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="ccf9e90414e7bb2cf09f4d7c77c42f70c690e118">
-        <dex dex="/Users/jonathanlin/Google_Drive/Development/EatingClub_jan29/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.2-f5deb1d6bc4cbc6ae7d63d05c4a5d6dfa0181c45.jar" />
-    </item>
-    <item
-        jar="/Users/jonathanlin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="/Users/jonathanlin/Google_Drive/Development/EatingClub_jan29/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-114d347242499a273b8f3fad5f144f2fadfd899b.jar" />
-    </item>
-    <item
-        jar="/Users/jonathanlin/Google_Drive/Development/EatingClub_jan29/ParseStarterProject/libs/Parse-1.8.2.jar"
+        jar="C:\Users\Minseung\Documents\GitHub\EatingClub\ParseStarterProject\libs\Parse-1.8.2.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
-        <dex dex="/Users/jonathanlin/Google_Drive/Development/EatingClub_jan29/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.8.2-6156664bf614a7b0105f2464c97e6d69312db08f.jar" />
+        <dex dex="C:\Users\Minseung\Documents\GitHub\EatingClub\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.8.2-2f4dbcf4988fa8cf57cbd5f9bd5a84512eb56150.jar" />
+    </item>
+    <item
+        jar="C:\Users\Minseung\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Minseung\Documents\GitHub\EatingClub\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-98fbcfc3dbc097e97a2e44ffbb2f629bfb388ae5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Minseung\Documents\GitHub\EatingClub\ParseStarterProject\libs\ParseCrashReporting-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ccf9e90414e7bb2cf09f4d7c77c42f70c690e118">
+        <dex dex="C:\Users\Minseung\Documents\GitHub\EatingClub\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.2-65d54629f24dc13d179450fbaee28373044570e3.jar" />
     </item>
 
 </items>

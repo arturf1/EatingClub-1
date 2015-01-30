@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Eating Club.iml" filepath="$PROJECT_DIR$/Eating Club.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EatingClub_jan29.iml" filepath="$PROJECT_DIR$/EatingClub_jan29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EatingClub.iml" filepath="$PROJECT_DIR$/EatingClub.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" filepath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" />
     </modules>
   </component>

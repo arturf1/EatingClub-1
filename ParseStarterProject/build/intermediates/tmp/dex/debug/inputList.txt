@@ -1,4 +1,4 @@
-/Users/jonathanlin/Google_Drive/Development/EatingClub_jan29/ParseStarterProject/build/intermediates/classes/debug
-/Users/jonathanlin/Google_Drive/Development/EatingClub_jan29/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-114d347242499a273b8f3fad5f144f2fadfd899b.jar
-/Users/jonathanlin/Google_Drive/Development/EatingClub_jan29/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.2-f5deb1d6bc4cbc6ae7d63d05c4a5d6dfa0181c45.jar
-/Users/jonathanlin/Google_Drive/Development/EatingClub_jan29/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.8.2-6156664bf614a7b0105f2464c97e6d69312db08f.jar
+C:\Users\Minseung\Documents\GitHub\EatingClub\ParseStarterProject\build\intermediates\classes\debug
+C:\Users\Minseung\Documents\GitHub\EatingClub\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-98fbcfc3dbc097e97a2e44ffbb2f629bfb388ae5.jar
+C:\Users\Minseung\Documents\GitHub\EatingClub\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.2-65d54629f24dc13d179450fbaee28373044570e3.jar
+C:\Users\Minseung\Documents\GitHub\EatingClub\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.8.2-2f4dbcf4988fa8cf57cbd5f9bd5a84512eb56150.jar

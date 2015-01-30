@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/jonathanlin/Google_Drive/Development/EatingClub_jan29/ParseStarterProject/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Minseung/Documents/GitHub/EatingClub/ParseStarterProject/res/values/strings.xml -->
     <eat-comment/>
     <string-array name="country_arrays">
         <item>Butler</item>
