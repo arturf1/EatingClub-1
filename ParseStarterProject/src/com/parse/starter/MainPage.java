@@ -89,9 +89,13 @@ public class MainPage extends Activity {
         for (ParseObject event : events) {
             String creatorName = event.getString("creator");
             String location = event.getString("location");
+            Date startTime = event.getDate("startTime");
             Date endTime = event.getDate("endTime");
-            names.add(creatorName + "\t\t" + location + "\t\t"
-                    + sdf.format(endTime));
+            //String s = String.format("%-30.30s %-15.15s %-8.8s", creatorName, location, sdf.format(endTime));
+            String s = String.format("%1$-25s%2$-10s%3$-10s%4$-10s", creatorName, location, sdf.format(startTime), sdf.format(endTime));
+            names.add(s);
+            /*names.add(creatorName + "\t\t" + location + "\t\t"
+                    + sdf.format(endTime)); */
         }
 
         // Find the ListView resource.
