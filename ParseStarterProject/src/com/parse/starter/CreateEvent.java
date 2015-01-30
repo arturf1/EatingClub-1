@@ -118,6 +118,7 @@ public class CreateEvent extends Activity {
         newFragment.show(getFragmentManager(), "timePicker");
     }
 
+    // Jonathan is a douche
     public class DatePickerFragment extends DialogFragment implements
             DatePickerDialog.OnDateSetListener {
         public Dialog onCreateDialog(Bundle savedInstanceState) {
